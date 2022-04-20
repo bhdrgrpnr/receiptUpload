@@ -1,4 +1,4 @@
-# Parcel API
+# Receipt
 
 ## Run
 
